@@ -9,5 +9,5 @@ const findCityByName = function (name) {
     return result
 }
 //test
-console.log(findCityByName('Chengdu'))
-// module.exports = findCityByName
+// console.log(findCityByName('Chengdu'))
+module.exports = findCityByName
